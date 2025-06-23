@@ -1,16 +1,12 @@
 # tanya_daku
 
-A new Flutter project.
+Aplikasi Flutter chatbot sederhana untuk bertanya/berdiskusi yang terintegrasi dengan Gemini AI 2.5 Flash
 
-## Getting Started
+## Fitur
+Memasukkan pertanyaan untuk ditanyakan kepada Daku
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+1. Clone repo atau download source code ini.
+2. Buka folder project di VS Code/Android Studio.
+3. Jalankan perintah: flutter pub get flutter run
+4. Selesai! Aplikasi akan tampil di emulator/device.
