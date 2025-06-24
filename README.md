@@ -22,20 +22,6 @@ Aplikasi Flutter sederhana yang berperan sebagai bola ajaib digital (magic ball)
     flutter run
     ```
 
-## Struktur Project
-tanya_daku/
-├── images/
-│ ├── ball1.png
-│ ├── ball2.png
-│ ├── ball3.png
-│ ├── ball4.png
-│ └── ball5.png
-├── lib/
-│ └── main.dart
-├── pubspec.yaml
-└── README.md
-
-
 ## Penjelasan Singkat Kode
 
 - `main.dart` berisi kode utama aplikasi.
